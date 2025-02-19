@@ -118,7 +118,7 @@ def download_planilha(df_resultado):
     )
 
 # Interface Streamlit
-st.title("🔍 Consulta de CNPJs")
+st.title("🔍 Consulta de CNPJs e CNAEs")
 st.write("Faça o upload de uma planilha com a coluna 'CNPJ' para realizar a consulta.")
 
 # Widget para upload do arquivo Excel
